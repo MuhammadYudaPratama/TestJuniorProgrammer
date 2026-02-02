@@ -13,8 +13,7 @@ Aplikasi dikembangkan menggunakan Framework Django dan berfungsi untuk mengelola
 - Jalankan Server
 1. python manage.py runserver
 
-- Akses aplikasi di browser:
-1. http://127.0.0.1:8000/
+- Akses aplikasi di browser: http://127.0.0.1:8000/
 
 - Data Dummy (Pengganti API)
 API Fastprint tidak dapat diakses karena masalah autentikasi (username & password).
